@@ -16,6 +16,11 @@ body{
   
 }
 
+.app_header h1{
+  
+  font-size: 2rem;
+}
+
 .app_left{
   flex: 0.8;
   min-width: 300px;
@@ -45,6 +50,11 @@ body{
 
 .app_right{
   max-width: 350px;
+  
+}
+
+.app_dropdown{
+  background-color: white;
 }
 
 
