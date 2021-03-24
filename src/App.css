@@ -8,6 +8,11 @@ body{
   scrollbar-width: none;  /* Firefox */
 }
 
+.app-wrapper{
+  display: flex;
+  flex-direction: column;
+}
+
 .app{
   display: flex;
   

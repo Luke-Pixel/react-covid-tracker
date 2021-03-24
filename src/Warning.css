@@ -1,0 +1,9 @@
+.warning{
+    background-color: red;
+    width: 20rem;
+    margin: auto;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+}
